@@ -26,8 +26,8 @@ Before using the automation features, you can personalize the agent by training 
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/david-patrick-chuks/Riona-AI-Agent.git
-   cd Riona-AI-Agent
+   git clone https://github.com/uzumstanley/Social-Media-AI-Agent.git
+   cd Social-Media-AI-Agent
    ```
 
 2. **Install dependencies**:
