@@ -1,6 +1,6 @@
 ## Social-Media-AI-Agent 🌸
 
-Riona-AI-Agent is an AI-powered automation tool designed for **Instagram** to automate social media interactions such as posting, liking, and commenting. It leverages advanced AI models to generate engaging content, automate interactions, and manage Instagram accounts efficiently.
+Social-Media-AI-Agent is an AI-powered automation tool designed for **Instagram** to automate social media interactions such as posting, liking, and commenting. It leverages advanced AI models to generate engaging content, automate interactions, and manage Instagram accounts efficiently.
 
 Before using the automation features, you can personalize the agent by training with the following, including:
 
