@@ -1,0 +1,37 @@
+{
+  "name": "sample agent",
+  "clients": [],
+  "settings": {
+    "voice": {
+      "model": "en_US-male-medium"
+    }
+  },
+  "bio": [],
+  "lore": [],
+  "knowledge": [],
+  "messageExamples": [
+    [
+      {
+        "user": "{{user1}}",
+        "content": {
+          "text": ""
+        }
+      },
+      {
+        "user": "sample agent",
+        "content": {
+          "text": ""
+        }
+      }
+    ]
+   
+  ],
+  "postExamples": [ ],
+  "topics": [],
+  "style": {
+    "all": [],
+    "chat": [],
+    "post": [ ]
+  },
+  "adjectives": []
+}
